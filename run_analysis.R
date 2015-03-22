@@ -1,7 +1,7 @@
 ## GETTING AND CLEANING DATA - COURSE PROJECT - COURSERA (getdata-012)
 
 ## User ID          : 5076930
-## Submission Login :	varun.ramakrishnan@gmail.com
+## Submission Login : varun.ramakrishnan@gmail.com
 
 ## Data for the Project :
 ## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 

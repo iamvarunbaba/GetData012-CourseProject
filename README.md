@@ -8,4 +8,4 @@ This is the Repository with my code for performing analysis on the UCI HAR datas
 
 2) R script "run_analysis.R" should be placed in the parent folder of "UCI HAR Dataset", and the same parent folder should also be set as the working directory for R.
 
-3) Run source("run_analysis.R"), this will generate a new file "tiny_data.txt" in the working directory. (approx. size of 262 KB)
+3) Run source("run_analysis.R"), this will generate a new file "tiny_data.txt" in the working directory. (approx. size of 262 kb)
