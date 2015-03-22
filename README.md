@@ -2,7 +2,7 @@
 
 This is the Repository with my code for performing analysis on the UCI HAR dataset as part of the Course Project in "Getting &amp; Cleaning Data" offered by Coursera.
 
-## Steps to work on this course project
+## Steps to be followed :
 
 1) Download the zip file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and extract the contents. The Dataset folder is "UCI HAR Dataset"
 
